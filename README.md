@@ -24,8 +24,8 @@ Este repositorio reúne ejercicios, prácticas, parciales y proyectos realizados
 - Escape Room
 - Simulador de gladiador
 
-### 05 - Parciales
-- Parcial Unidad 5
+### 05 - Casos practicos
+- Practicas
 
 ## Tecnologías y conceptos
 
