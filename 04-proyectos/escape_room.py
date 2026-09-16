@@ -1,4 +1,4 @@
-# Ejercicio 4 — “Escape Room: La Bóveda”
+# Ejercicio  — “Escape Room: La Bóveda”
 # Historia
 # Sos un agente que intenta abrir una bóveda con 3 cerraduras. Tenés energía y tiempo
 # limitados.
