@@ -1,4 +1,3 @@
-```python
 herramientas = []
 stock = []
 
