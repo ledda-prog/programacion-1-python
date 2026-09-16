@@ -1,4 +1,4 @@
-# Ejercicio 1— “Caja del Kiosco” 
+# Ejercicio — “Caja del Kiosco” 
 # Objetivo: Simular una compra con validaciones y cálculo de total. 
 # Requisitos:
 # 1. Pedir nombre del cliente (solo letras, validar con .isalpha() en while). 
