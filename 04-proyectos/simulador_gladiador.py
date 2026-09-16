@@ -1,4 +1,4 @@
-# Ejercicio 5 — “Escape Room:"La Arena del
+# Ejercicio  — “Escape Room:"La Arena del
 # Gladiador"
 # 1. Descripción del Escenario
 #   Vas a desarrollar un simulador de batalla por turnos en Python. El programa enfrentará a un
