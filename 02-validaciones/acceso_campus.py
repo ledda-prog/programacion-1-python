@@ -1,4 +1,4 @@
-# Ejercicio 2  — “Acceso al Campus y Menú Seguro” 
+# Ejercicio — “Acceso al Campus y Menú Seguro” 
 # Objetivo: Login con intentos + menú de acciones con validación estricta. 
 # Requisitos 
 # 1. Definir credenciales fijas en el código: 
